@@ -1,1 +1,1 @@
-EAK- Starter Template with Bootstrap and FA
+Simple example of extending list-view (Ember)

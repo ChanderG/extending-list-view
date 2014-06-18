@@ -1,5 +1,9 @@
 export default Ember.Route.extend({
   model: function() {
-    return ['red', 'yellow', 'blue'];
+    var items = [];
+    for(var i=0; i< 100; i++){
+      items.push({name: "" + i});
+    }
+    return items;
   }
 });
