@@ -3,6 +3,10 @@ html, body {
     margin: 20px;
 }
 
+td,th {
+  text-align: center;
+} 
+
 .ember-list-view {
   overflow: auto;
   position: relative;
