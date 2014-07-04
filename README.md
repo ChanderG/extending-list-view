@@ -12,7 +12,4 @@ The following are the relevent files:
 * templates/index.hbs    -  where the view is actually used
 
 ###Preview
-Coming Soon.
-
-###Todo
-* Publish gh-pages.
+[See demo](http://chanderg.github.io/extending-list-view)
