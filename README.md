@@ -6,5 +6,13 @@ Project structure is [Ember App Kit](https://github.com/stefanpenner/ember-app-k
 ###Build Instructions
 Standard EAK instructions.
 
+The following are the relevent files:
+* views/elistview.js     -  the actual extension
+* templates/rowitem.hbs  -  where the structure of a single row is specified
+* templates/index.hbs    -  where the view is actually used
+
 ###Preview
 Coming Soon.
+
+###Todo
+* Publish gh-pages.
