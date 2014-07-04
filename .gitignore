@@ -8,8 +8,6 @@
 # dependencies
 /node_modules
 /vendor/*
-!/vendor/ember-shim.js
-!/vendor/qunit-shim.js
 
 # misc
 /.sass-cache
